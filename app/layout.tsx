@@ -21,8 +21,8 @@ const cuteFont = Satisfy({
 });
 
 export const metadata: Metadata = {
-  title: 'Our Gift Story',
-  description: 'A romantic surprise gift experience',
+  title: 'Kha Jaunga',
+  description: 'Collectionnnnnn',
   icons: {
     icon: [
       { url: '/favicon_io/favicon.ico' },
