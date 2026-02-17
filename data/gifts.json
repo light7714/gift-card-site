@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tira_beauty_3000",
+    "title": "Tira Beauty",
+    "image": "/gifts/tira-giftcard.jpg",
+    "loadergiftimage": "/gifts/tira-loader.jpg",
+    "message1": "For my most beautiful woman, I'll use these products too from your face and lips 👄 by kissing you all over 🤤",
+    "message2": "Aapke fav products like Gush, Deconstruct etc. you can buy here. Click on gift card button on Tira website/app's payment page, then enter the code and PIN below to use",
+    "amount": "₹3000"
+  },
+  {
+    "id": "blinkit_500",
+    "title": "Blinkit",
+    "image": "/gifts/blinkit-loader.jpeg",
+    "loadergiftimage": "/gifts/blinkit-giftcard.jpeg",
+    "message1": "Kuch acha khaya peeya kro jaanu 😭",
+    "message2": "Add gift card in Blinkit money in the app to use",
+    "amount": "₹500"
+  }
+]
