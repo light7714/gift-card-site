@@ -1,5 +1,14 @@
 [
   {
+    "id": "blinkit_1000",
+    "title": "Blinkit Again",
+    "image": "/gifts/blinkit2-giftcard.jpeg",
+    "loadergiftimage": "/gifts/blinkit2-loader.png",
+    "message1": "Taaki aap aur boht kuch khaate peete raho (hopefully healthy😋 and sometimes junk😝) 😘 (fir vahi same blinkit card daldia 🤧 next time kuch creative sochunga)",
+    "message2": "Add gift card in Blinkit money in the app to use",
+    "amount": "₹1000"
+  },
+  {
     "id": "tira_beauty_3000",
     "title": "Tira Beauty",
     "image": "/gifts/tira-giftcard.jpg",
