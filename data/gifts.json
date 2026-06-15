@@ -1,5 +1,23 @@
 [
   {
+    "id": "zepto_2200",
+    "title": "22nd B'day Zepto Treatttt",
+    "image": "/gifts/zepto-giftcard.png",
+    "loadergiftimage": "/gifts/zepto-bday-loader.png",
+    "message1": "HAPPY 22nd BIRTHDAY MY LOVE MY EVERYTHING 😘🥳❤️‍🔥",
+    "message2": "(coz you use instamart and zepto more, but instamart wala gift card jaldi expire hora thha 😛) Add gift card in Zepto cash section in the app to use 🍩🍕",
+    "amount": "₹2200"
+  },
+  {
+    "id": "zomato_500",
+    "title": "Zomato",
+    "image": "/gifts/zomato-giftcard.png",
+    "loadergiftimage": "/gifts/blinkit2-loader.png",
+    "message1": "Dw free ka mila😝 sharing is caring🫶🏻",
+    "message2": "Add gift card in Zomato wallet in the app to use 🍩🍕",
+    "amount": "₹500"
+  },
+  {
     "id": "blinkit_1000",
     "title": "Blinkit Again",
     "image": "/gifts/blinkit2-giftcard.jpeg",
